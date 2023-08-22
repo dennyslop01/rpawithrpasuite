@@ -1,0 +1,25 @@
+﻿<record>
+	<smtphost>smtp.gmail.com</smtphost>
+	<smtptlsenable>true</smtptlsenable>
+	<smtpport>587</smtpport>
+	<smtpauh>true</smtpauh>
+	<email>xxx@ggg.com</email>
+	<password>*******</password>
+	<toEmail>xxx@ggg.com</toEmail>
+	<appName>KeyiberboardAltaEmpleados</appName>
+	<rutaBaseDocs>Plantilla Altas Procesar\</rutaBaseDocs>
+	<rutaTemporal>C:\InicioProcesoKeyiberboar\RespaldoTemporal</rutaTemporal>
+	<rutaFinalizados>C:\InicioProcesoKeyiberboar\Finalizados</rutaFinalizados>
+	<rutaErrores>C:\InicioProcesoKeyiberboar\Errores</rutaErrores>
+	<rutaClientes>Plantilla Altas Procesado</rutaClientes>
+	<rutaLogProceso>C:\InicioProcesoKeyiberboar\Logs</rutaLogProceso>
+	<extensionWork>xls</extensionWork>
+	<nameFileWork></nameFileWork>
+	<sustraDays>0</sustraDays>
+	<rutaA3nom>NOMMENU.EXE</rutaA3nom>
+	<a3nomuser></a3nomuser>
+	<a3nompassword></a3nompassword>
+	<a3nomexe></a3nomexe>
+	<tEspera>1500</tEspera>
+	<tEsperaComp>12</tEsperaComp>
+</record>
